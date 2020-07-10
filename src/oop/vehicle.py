@@ -1,4 +1,4 @@
 # Base Class
-
-class Vehicle:
-    pass
+class Vehicle():
+    def __init__(self):
+        pass
